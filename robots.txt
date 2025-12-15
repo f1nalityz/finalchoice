@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://onefinalchoice.com/sitemap.xml

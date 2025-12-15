@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Decisions on One Final Choice</title>
+    <link>http://localhost:1313/decisions/</link>
+    <description>Recent content in Decisions on One Final Choice</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/decisions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1313/decisions/computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decisions/computers/</guid>
+      <description>&lt;h2 id=&#34;daily-computer&#34;&gt;Daily Computer&lt;/h2&gt;
+&lt;h3 id=&#34;recommendation&#34;&gt;Recommendation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model:&lt;/strong&gt; MacBook Air&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chip:&lt;/strong&gt; Apple M2 or newer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memory:&lt;/strong&gt; 16 GB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; 512 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-this-exists&#34;&gt;Why this exists&lt;/h3&gt;
+&lt;p&gt;This computer minimizes friction.
+It wakes instantly, runs silently, and lasts a full day on battery.&lt;/p&gt;
+&lt;p&gt;It is designed for people who want a computer that disappears into the background.&lt;/p&gt;
+&lt;h3 id=&#34;this-is-for-you-if&#34;&gt;This is for you if&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You use a browser, email, documents, and light creative tools&lt;/li&gt;
+&lt;li&gt;You value battery life and silence&lt;/li&gt;
+&lt;li&gt;You don’t want to maintain or tune a system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;this-is-not-for-you-if&#34;&gt;This is not for you if&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You need Windows-only software&lt;/li&gt;
+&lt;li&gt;You do heavy 3D, rendering, or gaming&lt;/li&gt;
+&lt;li&gt;You care about upgradability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;gaming-computer&#34;&gt;Gaming Computer&lt;/h2&gt;
+&lt;h3 id=&#34;recommendation-1&#34;&gt;Recommendation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CPU:&lt;/strong&gt; AMD Ryzen 9800X3D&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPU:&lt;/strong&gt; NVIDIA RTX 5090&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memory:&lt;/strong&gt; 64 GB DDR5-6000 CL30&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; Samsung 990 Pro 2 TB NVMe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cooling:&lt;/strong&gt; High-end air cooler (Noctua NH-D15 class)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Motherboard:&lt;/strong&gt; Reputable B650 / B850 board&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Power Supply:&lt;/strong&gt; 1000–1200 W, 80+ Platinum&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Case:&lt;/strong&gt; High-airflow mid-tower&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-this-exists-1&#34;&gt;Why this exists&lt;/h3&gt;
+&lt;p&gt;This system removes performance bottlenecks without entering tuning or maintenance territory.
+It is designed to run at stock settings, remain quiet under load, and age well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
