@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>One Final Choice</title>
+    <link>https://onefinalchoice.com/en/</link>
+    <description>Recent content on One Final Choice</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <atom:link href="https://onefinalchoice.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computers</title>
+      <link>https://onefinalchoice.com/en/choices/computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://onefinalchoice.com/en/choices/computers/</guid>
+      <description>Final computer recommendations for daily use, gaming, and work.</description>
+    </item>
+    <item>
+      <title>Hire Me</title>
+      <link>https://onefinalchoice.com/en/hire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://onefinalchoice.com/en/hire/</guid>
+      <description>Personalized decisions for situations that don’t fit.</description>
+    </item>
+    <item>
+      <title>Mouse</title>
+      <link>https://onefinalchoice.com/en/choices/mouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://onefinalchoice.com/en/choices/mouse/</guid>
+      <description>A single mouse choice for daily computer use.</description>
+    </item>
+    <item>
+      <title>Principles</title>
+      <link>https://onefinalchoice.com/en/principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://onefinalchoice.com/en/principles/</guid>
+      <description>The principles behind making fewer, better choices.</description>
+    </item>
+  </channel>
+</rss>
