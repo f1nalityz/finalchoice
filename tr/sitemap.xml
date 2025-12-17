@@ -100,6 +100,20 @@
                 href="https://onefinalchoice.com/tr/tags/"
                 />
   </url><url>
+    <loc>https://onefinalchoice.com/tr/choices/phone/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://onefinalchoice.com/en/choices/phone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://onefinalchoice.com/tr/choices/phone/"
+                />
+  </url><url>
     <loc>https://onefinalchoice.com/tr/hire/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
