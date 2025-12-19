@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>One Final Choice</title>
-    <link>https://onefinalchoice.com/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on One Final Choice</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <atom:link href="https://onefinalchoice.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computers</title>
-      <link>https://onefinalchoice.com/en/choices/computers/</link>
+      <link>http://localhost:1313/en/choices/computers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onefinalchoice.com/en/choices/computers/</guid>
+      <guid>http://localhost:1313/en/choices/computers/</guid>
       <description>Final computer recommendations for daily use, gaming, and work.</description>
     </item>
     <item>
       <title>Hire Me</title>
-      <link>https://onefinalchoice.com/en/hire/</link>
+      <link>http://localhost:1313/en/hire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onefinalchoice.com/en/hire/</guid>
+      <guid>http://localhost:1313/en/hire/</guid>
       <description>Personalized decisions for situations that don’t fit.</description>
     </item>
     <item>
       <title>Mouse</title>
-      <link>https://onefinalchoice.com/en/choices/mouse/</link>
+      <link>http://localhost:1313/en/choices/mouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onefinalchoice.com/en/choices/mouse/</guid>
+      <guid>http://localhost:1313/en/choices/mouse/</guid>
       <description>A single mouse choice for daily computer use.</description>
     </item>
     <item>
       <title>Phone</title>
-      <link>https://onefinalchoice.com/en/choices/phone/</link>
+      <link>http://localhost:1313/en/choices/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onefinalchoice.com/en/choices/phone/</guid>
+      <guid>http://localhost:1313/en/choices/phone/</guid>
       <description>&lt;h3 id=&#34;one-final-phone-choice&#34;&gt;One Final Phone Choice&lt;/h3&gt;
 &lt;p&gt;Most people waste time comparing phones that all do the same thing.&lt;/p&gt;
 &lt;p&gt;You don’t need options.
@@ -65,10 +65,17 @@ You need one device that works every day for years.&lt;/p&gt;
     </item>
     <item>
       <title>Principles</title>
-      <link>https://onefinalchoice.com/en/principles/</link>
+      <link>http://localhost:1313/en/principles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onefinalchoice.com/en/principles/</guid>
+      <guid>http://localhost:1313/en/principles/</guid>
       <description>The principles behind making fewer, better choices.</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/en/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/terms/</guid>
+      <description>Terms of Service</description>
     </item>
   </channel>
 </rss>

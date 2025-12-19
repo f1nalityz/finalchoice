@@ -2,130 +2,158 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://onefinalchoice.com/tr/choices/computers/</loc>
+    <loc>http://localhost:1313/tr/choices/computers/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/choices/computers/"
+                href="http://localhost:1313/en/choices/computers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/choices/computers/"
+                href="http://localhost:1313/tr/choices/computers/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/categories/</loc>
+    <loc>http://localhost:1313/tr/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/categories/"
+                href="http://localhost:1313/tr/categories/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/choices/mouse/</loc>
+    <loc>http://localhost:1313/tr/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/choices/mouse/"
+                href="http://localhost:1313/en/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/choices/mouse/"
+                href="http://localhost:1313/tr/privacy/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/</loc>
+    <loc>http://localhost:1313/tr/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/"
+                href="http://localhost:1313/en/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/"
+                href="http://localhost:1313/tr/terms/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/principles/</loc>
+    <loc>http://localhost:1313/tr/choices/mouse/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/principles/"
+                href="http://localhost:1313/en/choices/mouse/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/principles/"
+                href="http://localhost:1313/tr/choices/mouse/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/choices/</loc>
+    <loc>http://localhost:1313/tr/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/choices/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/choices/"
+                href="http://localhost:1313/tr/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/tags/</loc>
+    <loc>http://localhost:1313/tr/principles/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/tags/"
+                href="http://localhost:1313/en/principles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/tags/"
+                href="http://localhost:1313/tr/principles/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/choices/phone/</loc>
+    <loc>http://localhost:1313/tr/choices/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/choices/phone/"
+                href="http://localhost:1313/en/choices/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/choices/phone/"
+                href="http://localhost:1313/tr/choices/"
                 />
   </url><url>
-    <loc>https://onefinalchoice.com/tr/hire/</loc>
+    <loc>http://localhost:1313/tr/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://onefinalchoice.com/en/hire/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://onefinalchoice.com/tr/hire/"
+                href="http://localhost:1313/tr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tr/choices/phone/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/choices/phone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/choices/phone/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tr/hire/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/hire/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/hire/"
                 />
   </url>
 </urlset>
